@@ -96,7 +96,7 @@ export default function Component() {
       {/* Main content */}
       <div className="relative z-10">
         <div className="grid grid-cols-3 sm:grid-cols-3 md:grid-cols-3 lg:grid-cols-3 xl:grid-cols-3 gap-8 md:gap-12 justify-items-center items-center h-[calc(100vh-16rem)]">
-          {houses.map((house, index) => (
+          {houses.map((_, index) => (
             <motion.div
               key={index}
               whileHover={{ scale: 1.05 }}

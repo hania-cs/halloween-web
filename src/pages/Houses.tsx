@@ -234,7 +234,7 @@ export default function Component() {
             className="bg-gradient-to-r from-orange-500 to-orange-600 text-purple-900 font-bold py-3 px-8 rounded-full transition duration-300 ease-in-out transform hover:scale-105 shadow-[0_0_15px_rgba(249,115,22,0.5)]"
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
-            onClick={() => window.location.href = '/pumpkins'}
+            onClick={() => window.location.href = '/games'}
           >
             Go to Ghost Patch
           </motion.button>

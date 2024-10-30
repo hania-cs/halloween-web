@@ -13,11 +13,11 @@ const houses: House[] = [
   { treat: 'https://www.canva.com/design/DAGVFSk6RFY/wMQQF_YGUDIhAMjmqCT-DA/edit?utm_content=DAGVFSk6RFY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton', type: 'place' },
   { treat: 'https://www.canva.com/design/DAGVEKio-Ec/4pH7BEmOJ3NdK_fZcqU0Rg/edit', type: 'song' },
   { treat: 'https://watchseries.bar/movie/bloomington/51736', type: 'place' },  
-  { treat: 'https://www.youtube.com/watch?v=xYsfIYUV4Gk', type: 'song' },
+  { treat: 'https://open.spotify.com/playlist/5YnXDLHKvCp3fA4z64nDWk?si=5440b654ed0b4a14k', type: 'song' },
   { treat: 'https://www.canva.com/design/DAGVDzCv-58/oKugENpm0-IaB9Fqc2H_aA/edit?utm_content=DAGVDzCv-58&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton', type: 'photo' },
   { treat: 'https://watchseries.bar/movie/the-love-witch/374052', type: 'place' },
   { treat: 'https://www.youtube.com/watch?v=xYsfIYUV4Gk', type: 'place' },
-  { treat: 'https://docs.google.com/document/d/1d8pKYD2xMof-zpQrMCuyjTp9rws7TwYR28CNIWYATvk/edit?usp=sharing', type: 'song' },
+  { treat: 'https://docs.google.com/document/d/1d8pKYD2xMof-zpQrMCuyjTp9rws7TwYR28CNIWYATvk/edit?tab=t.0', type: 'song' },
   { treat: 'https://www.canva.com/design/DAGVDw6qkVE/PaRwjkuPcy1pWKoQxZDR9Q/edit', type: 'place' },
 ]
 
